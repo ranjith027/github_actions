@@ -1,0 +1,3 @@
+name: pythonWorkflow
+
+on: push
